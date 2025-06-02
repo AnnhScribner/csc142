@@ -1,0 +1,4 @@
+2
+Language,DataFile,TypicalType
+ZZZTestLang-EMPTY,ZZZTestLang-EMPTY2.txt,Compiled
+ZZZTestLang-EMPTY2,ZZZTestLang-EMPTY.txt,Compiled

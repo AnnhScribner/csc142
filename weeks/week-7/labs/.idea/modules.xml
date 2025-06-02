@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/banish/banish.iml" filepath="$PROJECT_DIR$/banish/banish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isMonotonic/isMonotonic.iml" filepath="$PROJECT_DIR$/isMonotonic/isMonotonic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/labs.iml" filepath="$PROJECT_DIR$/.idea/labs.iml" />
+    </modules>
+  </component>
+</project>

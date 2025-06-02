@@ -1,0 +1,4 @@
+2
+Language,DataFile,TypicalType
+ZZZTestLang,ZZZTestLang.txt,Compiled
+ZZZTestLang2,ZZZTestLang2.txt,Compiled

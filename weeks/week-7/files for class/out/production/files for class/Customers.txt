@@ -1,0 +1,5 @@
+1034	123.45		Johnny Quest Adams
+1048	234.56		Tomasina Jefferson
+1052	1345.67		Geo Washington
+1073	45.78		Been Jammin Franklin
+1029	-5.9		Juan Hancott
